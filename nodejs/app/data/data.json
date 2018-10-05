@@ -1,0 +1,21 @@
+{
+    "friends" : [{
+        "title":"Office Friend",
+        "name":"Vinay Kumar",
+        "shortname" : "Vinay",
+        "summary": "IntRo",
+        "description":"<p>Vinay Stay in Virar</p>"
+    },{
+        "title":"Best Friend",
+        "name":"Ashutosh Singh",
+        "shortname" : "Ashutosh",
+        "summary": "Intro",
+        "description":"<p>Ashutosh Stay in Miraroad</p>"
+    },{
+        "title":"Me",
+        "name":"Rajesh Palande",
+        "shortname" : "Rajesh",
+        "summary": "INTRO",
+        "description":"<p>Rajesh Stay in Malad</p>"
+    }]  
+}
